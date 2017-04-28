@@ -6,4 +6,4 @@ for($i=5000;$i>=$random;$i--){
     echo "$i | ";
 }
 
-echo "c'est fini";
+echo "c'est fini. maintenant casse toi.";
