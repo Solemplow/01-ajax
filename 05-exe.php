@@ -7,7 +7,7 @@
         <script src="05-monjs.min.js"></script>
     </head>
     <body>
-        <h1>Premier exe objet XHR asynchrone</h1><h4>
+        <h1>Premier exercice objet XHR asynchrone</h1><h4>
         <ul>
             <li>Créez un fichier 05-monjs.js V</li>
             <li>Mettez-y tout le script du header V</li>
